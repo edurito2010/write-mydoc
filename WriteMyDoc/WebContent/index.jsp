@@ -7,7 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-Hello World, this is where we gather all the data for the employees etc
+	<form>
+		<label>Name: </label><input><input type="submit">
+	</form>
+	Hello World, this is where we gather all the data for the employees etc
 
 </body>
 </html>
