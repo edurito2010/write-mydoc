@@ -6,7 +6,7 @@ import javax.persistence.*;
 
 /**
  * The persistent class for the Employee database table.
- * 
+ * This class was generated from the table
  */
 @Entity
 @NamedQuery(name="Employee.findAll", query="SELECT e FROM Employee e")
