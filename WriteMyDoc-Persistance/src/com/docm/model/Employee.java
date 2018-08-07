@@ -25,6 +25,12 @@ public class Employee implements Serializable {
 	public Employee() {
 	}
 
+	public Employee(String firstName, String lastName) {
+		// TODO Auto-generated constructor stub
+		setFirstName(firstName);
+		setLastName(lastName);
+	}
+
 	public int getId() {
 		return this.id;
 	}
