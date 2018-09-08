@@ -8,5 +8,8 @@
         <dependent-module archiveName="WriteMyDoc-Persistance.jar" deploy-path="/lib" handle="module:/resource/WriteMyDoc-Persistance/WriteMyDoc-Persistance">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="WriteMyDoc-Common.jar" deploy-path="/lib" handle="module:/resource/WriteMyDoc-Common/WriteMyDoc-Common">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
     </wb-module>
 </project-modules>

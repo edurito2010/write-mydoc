@@ -3,6 +3,8 @@
 	<name>WriteMyDoc</name>
 	<comment></comment>
 	<projects>
+		<project>WriteMyDoc-Common</project>
+		<project>WriteMyDoc-Persistance</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>

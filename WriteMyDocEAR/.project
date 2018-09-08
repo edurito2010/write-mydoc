@@ -5,6 +5,7 @@
 	<projects>
 		<project>WriteMyDoc</project>
 		<project>WriteMyDoc-Persistance</project>
+		<project>WriteMyDoc-Common</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
